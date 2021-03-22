@@ -29,13 +29,13 @@ AS SELECT name,count(name) as Count from products group by name '''
 
     <img src="./images/products.png" width="300" height="100" />
 
-    [productsdata](https:github.com/)
+    [productsdata](https://github.com/ramscodehub/LargeFileProcessor/blob/main/images/products.png)
 
 4. Sample 10 rows from productAggregation data:
 
     <img src="./images/productAggregation.png" width="300" height="100" />
 
-    [productAggregation](https:github.com/)
+    [productAggregation](https://github.com/ramscodehub/LargeFileProcessor/blob/main/images/productAggregation.png)
 
 ## Points Achieved:
 -------------------------------------
