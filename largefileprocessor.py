@@ -127,9 +127,9 @@ class largeFileProcessor():
 
 def main():
     obj = largeFileProcessor(
-        hostAddress="database-prudhvi.c4ukltubprdq.us-east-1.rds.amazonaws.com",
-        userName = "admin",
-        password = "root1234",
+        hostAddress="hostAddressEndPoint",
+        userName = "userName",
+        password = "passwd",
         csvfileName = "products.csv")
 
     obj.readCsvToDataframe()
