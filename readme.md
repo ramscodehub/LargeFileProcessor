@@ -5,7 +5,7 @@ A python script to automate the import process of CSV File to a SQL server hoste
 ## Description:
 ----------------------------
 This script will automatically import CSV files to a MySQL database.
-Place the CSV file in the same directory and firstly install requirements by saying ``pip install requirements.txt``. Next place the csv file that needs to be imported to a MYSQL database and rename it as `products.csv`..Pass the MYSQL database host end point, hostUserName, and master Password as Parameters and Run the main Script.
+Place the CSV file in the same directory and firstly install requirements by saying ``pip install -r requirements.txt``. Next place the csv file that needs to be imported to a MYSQL database and rename it as `products.csv`..Pass the MYSQL database host end point, hostUserName, and master Password as Parameters and Run the main Script.
 
 ## Database Creation Script:
 ----------------------------
